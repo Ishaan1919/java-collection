@@ -1,4 +1,4 @@
-package com.bridgelabz.listInterface.src;
+package com.bridgelabz.listInterface;
 
 import java.util.ArrayList;
 import java.util.Collections;

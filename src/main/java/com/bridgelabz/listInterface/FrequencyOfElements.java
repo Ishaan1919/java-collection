@@ -4,7 +4,7 @@
 //Input: ["apple", "banana", "apple", "orange"] → Output: {apple=2, banana=1, orange=1}.
 
 
-package com.bridgelabz.listInterface.src;
+package com.bridgelabz.listInterface;
 
 import java.util.ArrayList;
 import java.util.HashMap;
